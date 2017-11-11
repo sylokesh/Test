@@ -6,6 +6,7 @@ public class JavaCalender {
 	 int hour, minute, second;
 
 	    public void setCurrent() {
+	    	//Comit
 	        Calendar calendar = Calendar.getInstance();
 	        this.hour = calendar.get(Calendar.HOUR_OF_DAY);
 	        this.minute = calendar.get(Calendar.MINUTE);
