@@ -3,6 +3,7 @@ package com.test.Testproject;
 import java.util.Scanner;
 
 public class Calculate {
+	// direct change
 	 int l, b;
 	    public void getData()
 	  {
