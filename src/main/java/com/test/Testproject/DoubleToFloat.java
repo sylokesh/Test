@@ -7,6 +7,7 @@ public class DoubleToFloat {
 		double d=f;
 		System.out.println("Double "+d+"float  "+f);
 		System.out.println("Test  for comit");
+		// Merge check
 		
 		System.out.println("  Double "+Double.parseDouble(String.valueOf(f)));
 		
